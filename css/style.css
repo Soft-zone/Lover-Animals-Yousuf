@@ -1,0 +1,11 @@
+  .carousel-inner img {
+    width: 100%;
+    height:700px;
+  }
+  @font-face{
+	font-family:yousuf1234;
+	src:url(../fonts/GloriaHallelujah-Regular.ttf);
+}
+*{
+	font-family:yousuf1234;
+}
